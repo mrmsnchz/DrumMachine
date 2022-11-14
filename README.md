@@ -1,5 +1,5 @@
 # DrumMachine
-One of the frontend projects for freecodecamp.
+One of the frontend for freecodecamp.
 
 https://codepen.io/MiriamSanchez/full/NWajxYP
 
