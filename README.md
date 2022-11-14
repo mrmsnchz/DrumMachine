@@ -1,5 +1,6 @@
 # DrumMachine
-One of the frontend projects i made for freecodecamp.
+One of the starting frontend projects i made for freecodecamp.
+Very basic HTML and CSS and some brain powers to connect the audioclip to everything.
 
 https://codepen.io/MiriamSanchez/full/NWajxYP
 
